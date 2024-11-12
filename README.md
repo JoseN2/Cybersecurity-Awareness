@@ -6,7 +6,7 @@ These are a few tips anyone can do to make sure you are more secure.
 
 2. Make sure you have multi-factor Authentication on the accounts that support it.
 
-3. Do not click on linkes or any tyoe of file that is ent to you on email. Unless you have knowledge of where and who it camwe from.
+3. Do not click on linkes or any type of file that is sent to you thru email. Unless you have knowledge of where and who it camwe from.
 
 4. Do not scan random QR codes you see in public.
 
