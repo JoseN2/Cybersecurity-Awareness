@@ -14,4 +14,4 @@ These are a few tips anyone can do to make sure you are more secure.
 
 6. Public Networks are not safe. Use a VPN if you need to connect to one.
 
-7. Update your software as soon as posible. To avoid any know vulnerabilities from being a acess point for threat actors.
+7. Update your software immediately to mitigate known security risks and protect your system from potential cyber threats.
