@@ -16,6 +16,7 @@ These are a few tips anyone can do to make sure you are more secure.
 
 7. Update your software immediately to mitigate known security risks and protect your system from potential cyber threats.
 
+
 You can also make simple changes to Your Home Network to improve network security.
 
 1. Strong Password: A complex password is your first line of defense.
